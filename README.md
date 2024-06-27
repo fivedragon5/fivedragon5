@@ -1,2 +1,2 @@
-# About
-- Just for the joy of coding
+
+## Just for the joy of coding
