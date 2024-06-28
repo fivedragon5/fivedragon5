@@ -5,6 +5,8 @@
 
 ### FAD
 
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,aws)](https://skillicons.dev)
+
 <br/>
 
 ### 💻 Experience
