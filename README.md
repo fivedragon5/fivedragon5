@@ -5,7 +5,7 @@
 
 ### FAD
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,aws)](https://skillicons.dev)
 
 <br/>
 
