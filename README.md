@@ -15,8 +15,9 @@
 <br/>
 
 ### 💻 Experience
+ - **RYENCATCHERS** *(Jul 2024 ~ )*
  - **PATH** - Backend Developer *(Feb 2023 - Mar 2024)*
- - **CURIOUD** - Software engineering *(Sep 2019 ~ Dec 2022)*
+ - **CURIOUD** - Software engineering *(Sep 2019 - Dec 2022)*
 
 <br/>
 
