@@ -1,9 +1,6 @@
 
-## FAD 👋
+## 👋 About FAD 
 
-
-### Just for the joy
- - **Fascinated**
 <div align=left>
     <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
@@ -18,6 +15,11 @@
  - **RYENCATCHERS** *(Jul 2024 ~ )*
  - **PATH** - Backend Developer *(Feb 2023 - Mar 2024)*
  - **CURIOUD** - Software engineering *(Sep 2019 - Dec 2022)*
+
+<br/>
+
+### 📌 Side Project
+ - **Wepl** - helps manage expenses and schedules for wedding planning *(Apr 2024 ~ )*
 
 <br/>
 
