@@ -23,7 +23,7 @@
 
 <br/>
 
-## ✏️ Education
+### ✏️ Education
  - **ACORN** - Studied the basics and applications of Java *(Jan 2019 - Jun 2019)*
 
 <br/>
